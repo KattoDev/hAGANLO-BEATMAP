@@ -14,7 +14,7 @@
 ## Usarlo localmente
 Clona el proyecto
 ```bash
-
+git clone https://github.com/RitzzRiver/hAGANLO-BEATMAP.git
 ```
 
 Ve al directorio del proyecto
