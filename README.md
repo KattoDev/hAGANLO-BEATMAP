@@ -10,7 +10,7 @@
 - [ ] Talento de televisión - Willie Colón
 - [ ] Love Taste - Moe Shop
 - [ ] うずまき - Machine Girl
-
+- [ ] Victor Le Dice a Joel - Jovani Vazquez
 ## Usarlo localmente para contribuir
 
 Clona el proyecto
